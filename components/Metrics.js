@@ -14,7 +14,7 @@ export default function Metrics() {
           <div className="h-full xl:relative xl:col-start-2">
             <img
               className="h-full w-full object-cover opacity-25 xl:absolute xl:inset-0"
-              src="/features/fourth.jpg"
+              src="/features/dox4.jpg"
               alt="People working on laptops"
             />
             <div
